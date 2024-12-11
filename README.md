@@ -20,14 +20,14 @@ Buy Now
 
 Ready to streamline your gym and fitness center management? Get started with **Gympify** today!  
 
-[![Buy Now](https://img.shields.io/badge/Buy%20Now-Gumroad-orange)](https://coderstm.gumroad.com/l/gympify)  
+[![Buy Now](https://img.shields.io/badge/Buy%20Now-Gumroad-orange)](https://coderstm.gumroad.com/l/gympify/BLACKFRIDAY)  
 
 By purchasing **Gympify**, you gain access to:  
 - A powerful and user-friendly fitness management system.  
 - Access to a private GitHub repository for support, feature suggestions, and updates.  
 - Ongoing updates and new features to enhance your experience.  
 
-👉 **[Click here to buy Gympify on Gumroad](https://coderstm.gumroad.com/l/gympify)**  
+👉 **[Click here to buy Gympify on Gumroad](https://coderstm.gumroad.com/l/gympify/BLACKFRIDAY)**  
 
 
 
