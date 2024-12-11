@@ -110,19 +110,11 @@ Password: `Gis0ra$$;`
     *   Free lifetime updates.
         
     *   Quick, dedicated, and professional support.
-        
 
+        
 ### **Refund Policy**
 
-*   If the item is downloaded mistakenly then we don’t offer a refund.
+*   Access to private repositories is granted immediately after purchase. Therefore, we do not offer refunds once the purchase is completed. **All sales are final.**
     
-*   Before purchasing any item, we recommend you read the description & compatibility content thoroughly because we don’t offer a refund once you purchase mistakenly
-    
+*   Before making a purchase, please carefully review the product description and compatibility information. Refunds will not be provided for mistaken purchases or misunderstandings about the product.
 
-### **Customer Support**
-
-If you find any trouble then you can email us to [hello@coderstm.com](mailto:hello@coderstm.com). We have a great team that can assist you. We’d love to help you.
-
-### **Important Note**
-
-All the images are included in this template used for Preview Purpose Only. They are not part of the template and are NOT included in the final purchase files.
