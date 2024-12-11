@@ -1,2 +1,128 @@
 # gympify-saas
 Gympify | Fitness &amp; Gym Management System (SaaS)
+
+Gympify is an all-in-one fitness and gym management system designed to simplify the way gyms, fitness centers, and wellness studios operate. With its user-friendly interface and robust features, Gympify helps you effortlessly manage memberships, classes, trainers, and billing — all in one place.
+
+Whether you're managing a single location or multiple branches, Gympify's dynamic, tenant-based architecture allows each gym to have its own unique theme and branding. This SaaS platform is designed to scale with your business, supporting custom domains, automated billing, class bookings, trainer schedules, and much more.
+
+Check Our Demo – [https://gympify.com](https://gympify.com)  
+
+--------------------------------------------------------------
+
+**Homepage:** [https://gympify.com](https://gympify.com/)  
+**Admin Area:** [https://admin.gympify.com](https://admin.gympify.com/)  
+**Member Area:** [https://fitpro.gympify.com/user](https://fitpro.gympify.com/user)  
+Username: `hello@coderstm.com`  
+Password: `Gis0ra$$;`
+
+![](https://public-files.gumroad.com/02lglh9abio2jb9ltrqepljzan5v)
+
+### **Features**
+
+*   **Membership Management**
+    
+    *   Manage member profiles and track memberships.
+        
+    *   Automated membership renewals and reminders.
+        
+    *   Flexible membership plans (monthly, yearly, etc.).
+        
+    *   Online signups with automated onboarding and secure payments.
+        
+    *   Online payment integration (Stripe, PayPal, Razorpay, etc.).
+        
+*   **Billing & Invoicing**
+    
+    *   Integrated payment gateways for seamless billing.
+        
+    *   Automated invoicing and payment reminders.
+        
+*   **Class & Appointment Scheduling**
+    
+    *   Online class booking and appointment scheduling.
+        
+    *   Automated booking confirmations and waitlist management.
+        
+    *   Class capacity and calendar view.
+        
+    *   Assign trainers to classes and personal sessions.
+        
+    *   Track trainer availability and performance.
+        
+*   **Attendance & Access Control**
+    
+    *   Check-in system using QR codes or biometrics.
+        
+    *   Real-time attendance reports and trends.
+        
+    *   Manage attendance with QR code scanner.
+        
+    *   Monitor member access in real-time.
+        
+*   **Analytics & Reporting**
+    
+    *   Membership growth and revenue reports.
+        
+    *   Booking trends and class attendance analytics.
+        
+    *   Exportable reports for easy data management.
+        
+*   **Communication Tools**
+    
+    *   SMS and email notifications for reminders, promotions, and updates.
+        
+    *   Push notifications for mobile app users.
+        
+*   **Multi-Location & Branch Management**
+    
+    *   Centralized management for multiple gym locations.
+        
+    *   Products with stock inventory management (multi-location support).
+        
+*   **Multi-Theme Frontend**
+    
+    *   Offer multiple theme options for the gym’s website and member portal.
+        
+    *   Easy theme switching with customizable colors, fonts, and layouts.
+        
+    *   Gym owners can personalize their frontend to match their brand identity.
+        
+    *   Mobile-responsive themes that look great on any device.
+        
+*   **Mobile App Support**
+    
+    *   iOS and Android apps for members and admins.
+        
+*   **E-commerce & POS Integration**
+    
+    *   Powerful shop module with POS system.
+        
+    *   Sell simple or variable products with stock inventory management.
+        
+*   **Additional Features**
+    
+    *   Multi-language support.
+        
+    *   Easy to set up.
+        
+    *   Clean, well-organized code.
+        
+    *   Free lifetime updates.
+        
+    *   Quick, dedicated, and professional support.
+        
+
+### **Refund Policy**
+
+*   If the item is downloaded mistakenly then we don’t offer a refund.
+    
+*   Before purchasing any item, we recommend you read the description & compatibility content thoroughly because we don’t offer a refund once you purchase mistakenly
+    
+
+### **Customer Support**
+
+If you find any trouble then you can email us to [hello@coderstm.com](mailto:hello@coderstm.com). We have a great team that can assist you. We’d love to help you.
+
+### **Important Note**
+
+All the images are included in this template used for Preview Purpose Only. They are not part of the template and are NOT included in the final purchase files.
