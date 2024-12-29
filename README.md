@@ -8,11 +8,12 @@ Whether you're managing a single location or multiple branches, Gympify's dynami
 Check Our Demo – [https://gympify.com](https://gympify.com)  
 ---
 
-**Homepage:** [https://gympify.com](https://gympify.com/)  
-**Admin Area:** [https://admin.gympify.com](https://admin.gympify.com/)  
-**Member Area:** [https://fitpro.gympify.com/user](https://fitpro.gympify.com/user)  
+**Homepage:** [https://gympify.com](https://gympify.coderstm.com/)  
+**Central Area:** [https://admin.gympify.com](https://app.gympify.coderstm.com/)  
+**Admin Area:** [https://admin.gympify.com](https://admin.gympify.coderstm.com/)  
+**Member Area:** [https://fitpro.gympify.com/user](https://fitpro.gympify.coderstm.com/user)  
 Username: `hello@coderstm.com`  
-Password: `Gis0ra$$;` 
+Password: `Pa$$w0rd!` 
 
 
 Buy Now
