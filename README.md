@@ -127,6 +127,41 @@ By purchasing **Gympify**, you gain access to:
         
     *   Quick, dedicated, and professional support.
 
+### **System Requirements**
+
+To ensure optimal performance and a smooth installation of Gympify, please ensure your hosting environment meets the following minimum requirements:
+
+#### **Server Requirements**
+- **Operating System:** Linux (Recommended: Ubuntu, AlmaLinux, or CentOS)
+- **Web Server:** Apache or NGINX
+- **PHP Version:** PHP 8.2 or higher
+  - Extensions Required:
+    - `BCMath`
+    - `Ctype`
+    - `Fileinfo`
+    - `JSON`
+    - `Mbstring`
+    - `OpenSSL`
+    - `PDO`
+    - `Tokenizer`
+    - `XML`
+    - `cURL`
+    - `Imagick` for image processing
+    - ionCube Loader® v13.0 (Ensure the latest version is installed and compatible with your PHP version)
+- **Database:** MySQL 5.7+ or MariaDB 10.3+
+
+#### **Hosting Environment**
+- **VPS or Dedicated Server:** Recommended for multi-tenant SaaS setup.  
+  - Shared hosting may work but might not support all advanced features.
+- **SSH Access:** Required for installation and configuration.  
+- **Control Panel:** cPanel or any other control panel for easier management (optional).
+
+#### **Additional Requirements**
+- **Composer:** For dependency management.
+- **Node.js & NPM/Yarn:** For building front-end assets.
+- **SSL Certificate:** Required for secure connections.
+
+If you have any questions about these requirements or need assistance setting up your environment, refer to the [Installation Guide](https://docs.coderstm.com/gympify/installation.html) or contact our support team. 
         
 ### **Refund Policy**
 
