@@ -9,7 +9,7 @@ Check Our Demo – [https://gympify.coderstm.com](https://gympify.coderstm.com)
 ---
 
 **Homepage:** [https://gympify.coderstm.com](https://gympify.coderstm.com/)  
-**Central Area:** [https://admin.gympify.coderstm.com](https://app.gympify.coderstm.com/)  
+**Central Area:** [https://app.gympify.coderstm.com](https://app.gympify.coderstm.com/)  
 **Admin Area:** [https://admin.gympify.coderstm.com](https://admin.gympify.coderstm.com/)  
 **Member Area:** [https://fitpro.gympify.coderstm.com/user](https://fitpro.gympify.coderstm.com/user)  
 Username: `hello@coderstm.com`  
