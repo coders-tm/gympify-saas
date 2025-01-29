@@ -16,20 +16,28 @@ Username: `hello@coderstm.com`
 Password: `Pa$$w0rd!` 
 
 
-Buy Now
----
+### **Buy Now**  
 
 Ready to streamline your gym and fitness center management? Get started with **Gympify** today!  
 
 [![Buy Now](https://img.shields.io/badge/Buy%20Now-Gumroad-orange)](https://coderstm.gumroad.com/l/gympify/BLACKFRIDAY)  
 
-By purchasing **Gympify**, you gain access to:  
-- A powerful and user-friendly fitness management system.  
-- Access to a private GitHub repository for support, feature suggestions, and updates.  
-- Ongoing updates and new features to enhance your experience.  
+### **What You Get with Your Purchase**  
+✅ **Full Access** to Gympify SaaS  
+✅ **One Year of Free Support** (Standard or Enterprise, based on your plan)  
+✅ **Lifetime Updates** – Stay ahead with the latest features  
+✅ **Private GitHub Repository Access** for issue tracking and feature requests  
 
-👉 **[Click here to buy Gympify on Gumroad](https://coderstm.gumroad.com/l/gympify/BLACKFRIDAY)**  
+### **Choose Your Plan**  
 
+| Plan          | Price  | Support Included        | Response Time     |
+|--------------|--------|-------------------------|-------------------|
+| **Standard**  |  ~$599~ **$499** | Standard Support ($249 value) | 1-2 Business Days |
+| **Enterprise** | ~$849~ **$749** | Enterprise Support ($399 value) | Within 24 Hours |
+
+> 💡 **Limited-Time Offer!** Use code **BLACKFRIDAY** at checkout to claim your discount.  
+
+👉 **[Click here to buy Gympify on Gumroad](https://coderstm.gumroad.com/l/gympify/BLACKFRIDAY)**
 
 
 ![](https://public-files.gumroad.com/02lglh9abio2jb9ltrqepljzan5v)
@@ -163,10 +171,32 @@ To ensure optimal performance and a smooth installation of Gympify, please ensur
 - **SSL Certificate:** Required for secure connections.
 
 If you have any questions about these requirements or need assistance setting up your environment, refer to the [Installation Guide](https://docs.coderstm.com/gympify/installation.html) or contact our support team. 
-        
+
+### **Support Plans**  
+
+With your Gympify purchase, you get **one year of free support**, based on the variant you choose:  
+
+- **Standard Plan** ($249 value – included with the Standard license)  
+- **Enterprise Plan** ($399 value – included with the Enterprise license)  
+
+### **Standard Support** – Ideal for small SaaS companies  
+✔ Unlimited Helpdesk Support  
+✘ No Live Chat Support  
+✘ No Weekend Support  
+✘ No Remote Support  
+⏳ Response Time: **1-2 business days**  
+
+### **Enterprise Support** – Premium support for enterprise clients  
+✔ Unlimited Helpdesk Support  
+✔ 24/7 Live Chat Support  
+✔ Weekend Support Included  
+✔ Remote Support Available  
+⏳ Response Time: **Within 24 hours**  
+
+If you require additional support beyond the first year, you can **renew your plan separately** at the respective pricing.  
+
 ### **Refund Policy**
 
 *   Access to private repositories is granted immediately after purchase. Therefore, we do not offer refunds once the purchase is completed. **All sales are final.**
     
 *   Before making a purchase, please carefully review the product description and compatibility information. Refunds will not be provided for mistaken purchases or misunderstandings about the product.
-
