@@ -32,8 +32,8 @@ Ready to streamline your gym and fitness center management? Get started with **G
 
 | Plan          | Price  | Support Included        | Response Time     |
 |--------------|--------|-------------------------|-------------------|
-| **Standard**  |  ~$599~ **$499** | Standard Support ($249 value) | 1-2 Business Days |
-| **Enterprise** | ~$849~ **$749** | Enterprise Support ($399 value) | Within 24 Hours |
+| **Standard**  |  ~$599~ **$499** | Standard Support ($149 value) | 1-2 Business Days |
+| **Enterprise** | ~$849~ **$749** | Enterprise Support ($299 value) | Within 24 Hours |
 
 > 💡 **Limited-Time Offer!** Use code **BLACKFRIDAY** at checkout to claim your discount.  
 
