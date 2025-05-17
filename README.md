@@ -5,14 +5,14 @@ Gympify is an all-in-one fitness and gym management system designed to simplify 
 
 Whether you're managing a single location or multiple branches, Gympify's dynamic, tenant-based architecture allows each gym to have its own unique theme and branding. This SaaS platform is designed to scale with your business, supporting custom domains, automated billing, class bookings, trainer schedules, and much more.
 
-Check Our Demo – [https://gympify.coderstm.com](https://gympify.coderstm.com)  
+Check Our Demo – [https://gympify.com](https://gympify.com)  
 ---
 
-**Homepage:** [https://gympify.coderstm.com](https://gympify.coderstm.com/)  
-**Central Area:** [https://app.gympify.coderstm.com](https://app.gympify.coderstm.com/)  
-**Admin Area:** [https://admin.gympify.coderstm.com](https://admin.gympify.coderstm.com/)  
-**Member Area:** [https://fitpro.gympify.coderstm.com/user](https://fitpro.gympify.coderstm.com/user)  
-Username: `hello@coderstm.com`  
+**Homepage:** [https://gympify.com](https://gympify.com/)  
+**Central Area:** [https://app.gympify.com](https://app.gympify.com/)  
+**Admin Area:** [https://admin.gympify.com](https://admin.gympify.com/)  
+**Member Area:** [https://fitpro.gympify.com/user](https://fitpro.gympify.com/user)  
+Username: `demo@gympify.com`  
 Password: `Pa$$w0rd!` 
 
 
