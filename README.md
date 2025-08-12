@@ -15,125 +15,59 @@ Check Our Demo – [https://gympify.com](https://gympify.com)
 Username: `demo@gympify.com`  
 Password: `Pa$$w0rd!` 
 
-
 ### **Buy Now**  
 
 Ready to streamline your gym and fitness center management? Get started with **Gympify** today!  
 
-[![Buy Now](https://img.shields.io/badge/Buy%20Now-Gumroad-orange)](https://coderstm.gumroad.com/l/gympify/BLACKFRIDAY)  
-
-### **What You Get with Your Purchase**  
-✅ **Full Access** to Gympify SaaS  
-✅ **One Year of Free Support** (Standard or Enterprise, based on your plan)  
-✅ **Lifetime Updates** – Stay ahead with the latest features  
-✅ **Private GitHub Repository Access** for issue tracking and feature requests  
-
-### **Choose Your Plan**  
-
-| Plan          | Price  | Support Included        | Response Time     |
-|--------------|--------|-------------------------|-------------------|
-| **Standard**  |  ~$599~ **$499** | Standard Support ($149 value) | 1-2 Business Days |
-| **Enterprise** | ~$849~ **$749** | Enterprise Support ($299 value) | Within 24 Hours |
-
-> 💡 **Limited-Time Offer!** Use code **BLACKFRIDAY** at checkout to claim your discount.  
-
-👉 **[Click here to buy Gympify on Gumroad](https://coderstm.gumroad.com/l/gympify/BLACKFRIDAY)**
-
-
-![](https://public-files.gumroad.com/02lglh9abio2jb9ltrqepljzan5v)
+[![Buy Now](https://img.shields.io/badge/Buy%20Now-coderstm.com-orange)](https://coderstm.com/products/gympify)  
 
 ### **Features**
 
 *   **Membership Management**
-    
     *   Manage member profiles and track memberships.
-        
     *   Automated membership renewals and reminders.
-        
     *   Flexible membership plans (monthly, yearly, etc.).
-        
     *   Online signups with automated onboarding and secure payments.
-        
     *   Online payment integration (Stripe, PayPal, Razorpay, etc.).
-        
 *   **Billing & Invoicing**
-    
     *   Integrated payment gateways for seamless billing.
-        
     *   Automated invoicing and payment reminders.
-        
 *   **Class & Appointment Scheduling**
-    
     *   Online class booking and appointment scheduling.
-        
     *   Automated booking confirmations and waitlist management.
-        
     *   Class capacity and calendar view.
-        
     *   Assign trainers to classes and personal sessions.
-        
     *   Track trainer availability and performance.
-        
 *   **Attendance & Access Control**
-    
     *   Check-in system using QR codes or biometrics.
-        
     *   Real-time attendance reports and trends.
-        
     *   Manage attendance with QR code scanner.
-        
     *   Monitor member access in real-time.
-        
 *   **Analytics & Reporting**
-    
     *   Membership growth and revenue reports.
-        
     *   Booking trends and class attendance analytics.
-        
     *   Exportable reports for easy data management.
-        
 *   **Communication Tools**
-    
     *   SMS and email notifications for reminders, promotions, and updates.
-        
     *   Push notifications for mobile app users.
-        
 *   **Multi-Location & Branch Management**
-    
     *   Centralized management for multiple gym locations.
-        
     *   Products with stock inventory management (multi-location support).
-        
 *   **Multi-Theme Frontend**
-    
     *   Offer multiple theme options for the gym’s website and member portal.
-        
     *   Easy theme switching with customizable colors, fonts, and layouts.
-        
     *   Gym owners can personalize their frontend to match their brand identity.
-        
     *   Mobile-responsive themes that look great on any device.
-        
 *   **Mobile App Support**
-    
     *   iOS and Android apps for members and admins.
-        
 *   **E-commerce & POS Integration**
-    
     *   Powerful shop module with POS system.
-        
     *   Sell simple or variable products with stock inventory management.
-        
 *   **Additional Features**
-    
     *   Multi-language support.
-        
     *   Easy to set up.
-        
     *   Clean, well-organized code.
-        
     *   Free lifetime updates.
-        
     *   Quick, dedicated, and professional support.
 
 ### **System Requirements**
@@ -172,31 +106,12 @@ To ensure optimal performance and a smooth installation of Gympify, please ensur
 
 If you have any questions about these requirements or need assistance setting up your environment, refer to the [Installation Guide](https://docs.coderstm.com/gympify/installation.html) or contact our support team. 
 
-### **Support Plans**  
+### **Buy Now**
 
-With your Gympify purchase, you get **one year of free support**, based on the variant you choose:  
+Ready to streamline your gym and fitness center management? Get started with **Gympify** today!
 
-- **Standard Plan** ($249 value – included with the Standard license)  
-- **Enterprise Plan** ($399 value – included with the Enterprise license)  
+[![Buy Now](https://img.shields.io/badge/Buy%20Now-coderstm.com-orange)](https://coderstm.com/products/gympify)
 
-### **Standard Support** – Ideal for small SaaS companies  
-✔ Unlimited Helpdesk Support  
-✘ No Live Chat Support  
-✘ No Weekend Support  
-✘ No Remote Support  
-⏳ Response Time: **1-2 business days**  
+---
 
-### **Enterprise Support** – Premium support for enterprise clients  
-✔ Unlimited Helpdesk Support  
-✔ 24/7 Live Chat Support  
-✔ Weekend Support Included  
-✔ Remote Support Available  
-⏳ Response Time: **Within 24 hours**  
-
-If you require additional support beyond the first year, you can **renew your plan separately** at the respective pricing.  
-
-### **Refund Policy**
-
-*   Access to private repositories is granted immediately after purchase. Therefore, we do not offer refunds once the purchase is completed. **All sales are final.**
-    
-*   Before making a purchase, please carefully review the product description and compatibility information. Refunds will not be provided for mistaken purchases or misunderstandings about the product.
+If you have any questions about licensing or source code access, please contact our support team before purchasing.
